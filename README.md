@@ -1,3 +1,11 @@
+# Next.js app with Flatfile React Button
+
+The error we get is "document is not defined". We believe it is because Next.js renders in the server and does not find the document object.
+
+We have attempted to go around this a number of ways, such as https://haodong.io/render-client-side-only-component-in-next-js and using Next dynamic imports. We've had no luck.
+
+### Below is the typical README for a Next.js app
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
