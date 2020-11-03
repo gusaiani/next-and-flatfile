@@ -1076,10 +1076,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@flatfile/adapter@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/@flatfile/adapter/-/adapter-2.1.1.tgz#0b84a338a9864ff2bf9c2361f75c6305378fc904"
-  integrity sha512-EQiSj1ccU8ROAQjmHDlwoeqgux+bngc00/BxjDV3s7QXBK7/v2tvhM5PSFojhpSWpCQMpDcQrIIgwqqlXoX2gg==
+"@flatfile/adapter@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@flatfile/adapter/-/adapter-2.1.4.tgz#0acbeaa262a8ad278e723812b1c6a5d4d06a770d"
+  integrity sha512-LVpy9JDU6Pt+OgXjP83bQAV7Rihi3wbecg/Fk4okLh25eZcYmfsaYm91ONMXK9FZPFf7ZamKW4ayuwYy+n/pXw==
   dependencies:
     element-class "^0.2.2"
     es6-promise "^4.2.4"
@@ -1092,12 +1092,12 @@
     tslib "^1.8.1"
     when-dom-ready "^1.2.12"
 
-"@flatfile/react@^0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@flatfile/react/-/react-0.1.6.tgz#55c4ea6eb17e0a1a8d688cc7e8a0f16728bc71c4"
-  integrity sha512-vNLa89NdA+YchqxYFqJ5sVRK8SNipHaKWtXg3OTtSmfHLa29RhbQKES5XcEK27kYnBB69u/Q8M/rIPgSWsjIXA==
+"@flatfile/react@^0.1.7":
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/@flatfile/react/-/react-0.1.7.tgz#a35d5aa042d6bcc7e9b910329d5102da74294236"
+  integrity sha512-OP77IpO988Zi7fxkGj8fItnomLrIuhlZ1dJSAKbdYmw7uEihcEaj5kQPLrgO48SF9z18vhBTHgQ4OYV9JiDXWg==
   dependencies:
-    "@flatfile/adapter" "^2.1.1"
+    "@flatfile/adapter" "^2.1.4"
 
 "@hapi/accept@5.0.1":
   version "5.0.1"
